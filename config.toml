@@ -1,5 +1,5 @@
 title = "Chris Stayte Blog"
-baseURL = "https://example.com"
+baseURL = "https://blog.chrisstayte.com"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true

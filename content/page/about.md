@@ -3,6 +3,8 @@ title: "About Me"
 date: 2017-11-15T13:18:45+01:00
 author: "Chris"
 url: /about
+
+draft: true
 ---
 Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
 It is full of little nice features, such as:
