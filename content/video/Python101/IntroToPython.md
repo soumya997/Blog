@@ -2,7 +2,7 @@
 title: "Intro To Python"
 date: 2017-10-11T16:23:40+01:00
 
-draft: true
+draft: false
 
 featuredImage: ""
 categories: [Code, Tutorial]
