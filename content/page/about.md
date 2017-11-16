@@ -19,7 +19,4 @@ this blog will evolve and so will my skills.
 The thing I'm most excited for in this blog is the evolution of myself over
 time.
 
-
-
-
-**[Check Out My Professional Portfolio](https://www.chrisstayte.com/)**
+<p><a href="https://www.chrisstayte.com/" target="_blank">Check Out My Professional Portfolio</a></p>
