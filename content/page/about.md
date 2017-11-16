@@ -3,22 +3,23 @@ title: "About Me"
 date: 2017-11-15T13:18:45+01:00
 author: "Chris"
 url: /about
-
-draft: true
 ---
-Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
-It is full of little nice features, such as:
+Hey I'm Chris. Just a guy wishing days were 3 times longer so he could get done
+with what he wanted to do. I'm making this blog so I can express my ability as a
+ developer but also my experiences in life.
 
-- built-in integration for the wounderful [algolia search](https://algolia.com)
-- built-in integration for the powerful [disqus comments](https://disqus.com)
-- gravatar and custom image integration for the header
-- keyboard shortcut for the search (press the `s` key, type something and hit `esc`)
-- responsive design - optimized for desctop and mobile devices
-- full internationalization (i18n) support (en, de, fr, ru, es out of the box!)
-- custom post types (article, audio, code, gallery, link, page, picture, quote, video)
-    - easy configuration to add more according to your needs
+On a more personal note...
+I'm work in the field of Remote Sensing centered on feature extraction. I spend
+most of my free time doing the things I love such as rock climbing or going to
+the gym. My favorite past time is programming though. I've never had any super
+formal training so even making this blog is a challenge but I'm sure with time
+this blog will evolve and so will my skills.
 
 
-*This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
+The thing I'm most excited for in this blog is the evolution of myself over
+time.
 
-**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+
+
+
+**[Check Out My Professional Portfolio](https://www.chrisstayte.com/)**
