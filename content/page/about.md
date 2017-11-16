@@ -6,7 +6,7 @@ url: /about
 ---
 Hey I'm Chris. Just a guy wishing days were 3 times longer so he could get done
 with what he wanted to do. I'm making this blog so I can express my ability as a
- developer but also my experiences in life.
+ developer but also my experiences in life. 
 
 On a more personal note...
 I'm work in the field of Remote Sensing centered on feature extraction. I spend
@@ -17,6 +17,6 @@ this blog will evolve and so will my skills.
 
 
 The thing I'm most excited for in this blog is the evolution of myself over
-time.
+time. So let's get cracken.
 
 <p><a href="https://www.chrisstayte.com/" target="_blank">Check Out My Professional Portfolio</a></p>
