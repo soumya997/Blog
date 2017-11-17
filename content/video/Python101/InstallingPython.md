@@ -7,6 +7,6 @@ categories: [Code, Tutorial]
 tags: [Python, Tutorial, Install]
 
 # Set your video id for
-youtube: ""     #"Yk_BI3ne0Ic"
+youtube: "Yk_BI3ne0Ic"
 ---
 Today we learn how to install python and then run a line of code to make sure that it has installed correctly.
