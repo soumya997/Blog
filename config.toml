@@ -15,7 +15,7 @@ disqusShortname = "blog-chrisstayte"
 
 [params]
   # Favicon for the browser's favorites and tabs
-  favicon = "" # set a favicon icon
+  favicon = "/images/favicon.ico" # set a favicon icon
 
   # Description and meta data for the search engines
   author = "Chris Stayte"
