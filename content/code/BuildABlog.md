@@ -15,9 +15,7 @@ I am writing this blog post to show how I created this exact blog, the issues I 
 
 - Google Domains
 - Github
-    - Host The Code
 - Netlify
-    - Host The Website
 - Hugo
 
 ##### Package Mangager
