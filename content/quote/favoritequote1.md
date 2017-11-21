@@ -1,6 +1,6 @@
 ---
 title: "Quote To Live By"
-date: 2017-10-1T00:20:56-05:00
+date: 2017-10-01T00:20:56-05:00
 
 featuredImage: ""
 categories: [quotes]
