@@ -17,9 +17,10 @@ Today I'm briefly going over what data types and a couple of the build in native
 
 <!--more-->
 
-
-Here are the main build in data-types we are going to be going over in future videos.
-
+>
+### Data Types
+These are the main built in  datatypes
+> 
 - Boolean
 - Numbers
 - Strings
