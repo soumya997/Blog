@@ -6,7 +6,7 @@ draft: false
 
 featuredImage: ""
 categories: [Podcast]
-tags: [YoungManGame]
+tags: [Young Man Game]
 
 # Set your audio url for
 spotify:    ""     # "spotify:track:0qDZPJGUALZC7vSahlekhu"
