@@ -33,7 +33,7 @@ disqusShortname = "blog-chrisstayte"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Travel The World... Through My Head"
+    subtitle = "Learn The World... Through My Head"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
