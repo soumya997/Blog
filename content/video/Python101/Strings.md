@@ -45,5 +45,5 @@ version2 = "These are double quotes \"words\""
 If you look at the code you can see that using the opposite quotes allows you to use
 them in the string. If for some reason you have to use the same type of quote to
 encase the string as well as in the string you can 'escape' the quotes using the
-forward slash. This tells python no to interpret the quotes and to keep them as 
+forward slash. This tells python not to interpret the quotes and to keep them as 
 their literal context of a character.
