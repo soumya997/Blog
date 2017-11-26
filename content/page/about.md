@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2017-11-15T13:18:45+01:00
-author: "Chris"
+author: "Chris Stayte"
 url: /about
 ---
 Hey I'm Chris. Just a guy wishing days were 3 times longer so he could get done
