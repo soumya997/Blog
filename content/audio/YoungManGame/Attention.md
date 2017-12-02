@@ -14,4 +14,4 @@ soundcloud: "https://soundcloud.com/youngmangame/podcast001-attention"     # htt
 tunein:     ""     # t117894382
 mixcloud:   ""     # scienceforthepeople/445-ai-ant-intelligence
 ---
-The world is filld with people glued to something other than the here and now. Listen to my buddy trevor and I talk about this and ways to combat it.
+The world is filld with people glued to something other than the here and now. Listen to `Trevor Curtis` and  `Chris Stayte` talk about this and ways to combat it.
