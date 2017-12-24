@@ -8,7 +8,6 @@ categories: [Code, Tutorial]
 tags: [Python, Tutorial, Strings]
 author: "Chris Stayte"
 
-
 youtube: "KquuQ-YWU3I"
 ---
 
