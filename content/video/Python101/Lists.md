@@ -9,7 +9,7 @@ tags: [Python, Tutorial, Lists]
 author: "Chris Styate"
 
 # Set your video id for
-youtube: "https://www.youtube.com/watch?v=HoHW6a5psgo"     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
+youtube: "HoHW6a5psgo"     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 vimeo: ""       # https://vimeo.com/239830182 -> "239830182"
 ---
 Today we go over `Lists` in python and some built in functions and how they apply to them.
