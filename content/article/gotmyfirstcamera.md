@@ -20,6 +20,6 @@ Right off the bat I had to take some awesome photos with it right? Well here is 
 
 I'm going to be testing this out over the next few weeks and showing off some picture. I'll put them up on here eventually!!
 
-I am wanting to do more vidoes where I can talk to you... my audience. I got this because I wanted to give you all the best quality I can, not only in quality of the shots I take and audio I capture but I am alwasy striving to push the best substance. 
+I am wanting to do more vidoes where I can talk to you... my audience. I got this because I wanted to give you all the best quality I can, not only the quality of the shots I take and audio I capture but I am alwasy striving to push the best substance. 
 
 I'll be posting more frequently this year so stay tuned. 
