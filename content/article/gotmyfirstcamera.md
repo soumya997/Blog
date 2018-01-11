@@ -3,7 +3,7 @@ title: "New Camera"
 date: 2018-01-10T16:15:10-05:00
 draft: false
 
-featuredImage: "images/eos_m6_me.jpg"
+featuredImage: "images/eos_m6_me2.jpg"
 categories: [Photography]
 tags: [Canon, EOS M6]
 author: "Chris Stayte"
@@ -17,6 +17,11 @@ So the camera I got is the `Canon EOS M6`. I've never owned an actual dedicated 
 Right off the bat I had to take some awesome photos with it right? Well here is one of my awesome dog Jake. He wasn't happy cause I woke him up from a nap. 
 
 <img src="\images\eos_m6_jake.jpg" alt="Jake" style="width: 100%;"/>
+
+
+This one was actually the first front faceing picture I took. I love the way the screen flips around. 
+
+<img src="\images\eos_m6_me.jpg" alt="Jake" style="width: 100%;"/>
 
 I'm going to be testing this out over the next few weeks and showing off some picture. I'll put them up on here eventually!!
 
