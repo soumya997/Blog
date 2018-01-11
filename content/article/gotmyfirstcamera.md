@@ -19,7 +19,7 @@ Right off the bat I had to take some awesome photos with it right? Well here is 
 <img src="\images\eos_m6_jake.jpg" alt="Jake" style="width: 100%;"/>
 
 
-This one was actually the first front faceing picture I took. I love the way the screen flips around. 
+This one was actually the first front facing picture I took. I love the way the screen flips around. 
 
 <img src="\images\eos_m6_me.jpg" alt="Jake" style="width: 100%;"/>
 
