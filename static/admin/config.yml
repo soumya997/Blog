@@ -1,6 +1,6 @@
 backend:
-  name: github
-  branch: chrisstayte/blog
+  name: git-gateweay
+  branch: master
 
 media_folder: "static/images/uploads"
 public_folder: "images/uploads"
