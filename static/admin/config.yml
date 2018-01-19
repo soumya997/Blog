@@ -8,7 +8,7 @@ public_folder: "images/uploads"
 collections:
   - name: "video"
     label: "Video" 
-    folder: "content/video/"
+    folder: "content/video"
     create: true
     slug: {{slug}}
     fields:
