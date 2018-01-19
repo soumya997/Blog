@@ -20,3 +20,15 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Youtube Link", name: "youtube", widget: "string", required: false}
       - {label: "Vimeo Link", name: "vimdeo", widget: "string", required: false}
+  - name: "link"
+    label: "Link"
+    folder: "content/link"
+    create: true
+    slug: {{slug}}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Link", name: "link", widget: "string", required: true}
