@@ -1,7 +1,7 @@
 ---
 title: Gravit Designer
 date: 2017-11-21T02:30:05.000Z
-draft: true
+draft: false
 categories:
   - Software
 tags:
