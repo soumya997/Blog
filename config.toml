@@ -39,7 +39,7 @@ disqusShortname = "blog-chrisstayte"
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = "/images/eos_m6_me2.jpg"
+    customImage = "/images/uploads/profile_picture.jpg"
 
     # always display the top navigation (with pages and search) on non-mobile screens
     permanentTopNav = false
