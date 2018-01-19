@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "static/images/uploads"
+public_folder: "images/uploads"
+
+collections:
+  - name: "video"
+    label: "Video" 
+    folder: "/content/video/"
+    create: true
+    slug: {{slug}}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Youtube Link", name: "youtube", widget: "string"}
+      - {label: "Vimeo Link", name: "vimdeo", widget: "string"}
