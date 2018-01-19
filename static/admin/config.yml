@@ -19,7 +19,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Youtube Link", name: "youtube", widget: "string", required: false}
-      - {label: "Vimeo Link", name: "vimdeo", widget: "string", required: false}
+      - {label: "Vimeo Link", name: "vimeo", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "video_python101"
     label: "Python101 Course Video" 
@@ -47,6 +47,19 @@ collections:
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Link", name: "link", widget: "string", required: true}
+  - name: "quote"
+    label: "Quote"
+    folder: "content/quote"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Quote", name: "body", widget: "markdown"}
   - name: "article"
     label: "Article"
     folder: "content/article"
@@ -61,4 +74,50 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "No Summary", name: "noSummary", widget: "string", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "code"
+    label: "Code"
+    folder: "content/code"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Author", name: "author", widget: "string", required: false}
+      - {label: "No Summary", name: "noSummary", widget: "string", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "audio"
+    label: "Audio" 
+    folder: "content/audio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Spotify Link", name: "spotify", widget: "string", required: false}
+      - {label: "Soundcloud Link", name: "vimeo", widget: "string", required: false}
+      - {label: "TuneIn Link", name: "turnin", widget: "string", required: false}
+      - {label: "MixCloud Link", name: "mixcloud", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "audio_youngmangame"
+    label: "Audio" 
+    folder: "content/audio/YoungManGame"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Soundcloud Link", name: "vimeo", widget: "string", required: true}
       - {label: "Body", name: "body", widget: "markdown"}
