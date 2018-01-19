@@ -20,6 +20,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Youtube Link", name: "youtube", widget: "string", required: false}
       - {label: "Vimeo Link", name: "vimdeo", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "video_python101"
     label: "Python101 Course Video" 
     folder: "content/video/Python101"
@@ -33,6 +34,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Youtube Link", name: "youtube", widget: "string", required: true}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "link"
     label: "Link"
     folder: "content/link"
