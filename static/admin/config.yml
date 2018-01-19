@@ -14,8 +14,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Draft", name: "draft", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: true}
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Youtube Link", name: "youtube", widget: "string", required: false}
