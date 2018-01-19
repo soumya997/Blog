@@ -20,6 +20,19 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Youtube Link", name: "youtube", widget: "string", required: false}
       - {label: "Vimeo Link", name: "vimdeo", widget: "string", required: false}
+  - name: "video"
+    label: "Python101 Course Videos" 
+    folder: "content/video/Python101"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Youtube Link", name: "youtube", widget: "string", required: true}
   - name: "link"
     label: "Link"
     folder: "content/link"
