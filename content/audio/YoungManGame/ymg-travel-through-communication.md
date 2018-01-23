@@ -8,4 +8,4 @@ tags:
   - Young Man Game
 soundcloud: 'https://soundcloud.com/youngmangame/podcast002-travel-through-communication'
 ---
-This is a topic that I work on daily and also use a lot when judging peoples character and how they are going to treat certain situations.
+This is more education than conjecture. It's all about how people communicate and not about what is wrong in it. Well a little about how it's wrong. Just listen and you'll learn something. I promise.
