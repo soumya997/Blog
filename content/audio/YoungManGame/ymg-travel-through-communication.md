@@ -1,6 +1,6 @@
 ---
-title: 'YMG: Travel Through Communication'
-date: 2017-12-22T21:07:07-05:00
+title: Travel Through Communication
+date: 2017-12-23T02:07:07.000Z
 draft: false
 categories:
   - Podcast
