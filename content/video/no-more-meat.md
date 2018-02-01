@@ -4,7 +4,7 @@ date: 2018-02-01T04:38:03.473Z
 draft: false
 categories:
   - Vlog
-youtube: 'https://www.youtube.com/watch?v=x6blASqP-VY'
+youtube: x6blASqP-VY&t=8s
 ---
 So this one is kind of new...
 
