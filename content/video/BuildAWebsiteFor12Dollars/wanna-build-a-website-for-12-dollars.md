@@ -7,6 +7,6 @@ categories:
 tags:
   - Development
   - Savings
-youtube: 'https://youtu.be/5aajv-2YZYM'
+youtube: 5aajv-2YZYM
 ---
 That's right. You read that right. Today I am going to talk about why you wanna build a portfolio site and in the future videos we are going to talk about how to do so for only $12 a year.
