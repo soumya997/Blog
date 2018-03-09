@@ -6,11 +6,11 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title = "<Blog id = \"ChrisStaye\"/>"
+  title = "Chris Stayte Blog"
   subtitle = ""
 
   cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  description = "Chris Stayte's Awesome Blog"
   metaDescription = ""
   googleAnalytics = "UA-75993010-2"
   customCSS = []
