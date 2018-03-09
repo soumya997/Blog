@@ -1,66 +1,60 @@
-title = "Chris Stayte Blog"
-baseURL = "https://blog.chrisstayte.com"
-theme = "bilberry-hugo-theme"
-
-enableRobotsTXT = true
-
-# Change to your content language. Supported values: en, de, es, fr, ru
-DefaultContentLanguage = "en"
-
-# Enable / Disable Google Analytics statistics for your site
-googleAnalytics = "UA-75993010-2"
-
-# Enable / Disable comments on the articles via Disqus.
+BaseURL = "https://blog.chrisstayte.com"
+theme = "casper-two"
+languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
+paginate        = 6
+#SectionPagesMenu = "main"
 
 [params]
-  # Favicon for the browser's favorites and tabs
-  favicon = "" # set a favicon icon
+  title = "<Blog id = \"ChrisStaye\"/>"
+  subtitle = ""
 
-  # Description and meta data for the search engines
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = "UA-75993010-2"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "chrisstayte"
+  fbName = "christstayte"
+  githubName = "chrisstayte"
+
+  logo = ""
+  orgName = "Chris Stayte"
+  orgWebsite = "https://blog.chrisstayte.com"
+  orgDescription = "Chris Stayte"
+
   author = "Chris Stayte"
-  description = "My Life Through These Posts"
-  keywords = "blog,personal,developer,chris,stayte"
+  authorAvatar = "uploads/chrisstayte_profilepic.jpg"
+  authorLocation = "Dayton, OH"
+  authorWebsite = "https://chrisstayte.com"
+  authorDescription = "Developer, Designer, Legend..."
 
-  # How many articles should be displayed at once?
-  paginate = 7
+  pageNotFoundTitle = "404 - Page not found"
 
-  # Enable / Disable algolia search
-  algolia_search    = true
-  algolia_appId     = "W1G3TMVYQB"
-  algolia_apiKey    = "901cb70cbfae05ee44c6606c3e331d9c"
-  algolia_indexName = "search_blog"
+  #casper or caspertwo
+  singleViewStyle = "casper"
 
-  # Header configuration
-    # your subtitle if you want to use any
-    subtitle = "Learn The World... Through My Head"
+[permalinks]
+  post = "/:slug/"
 
-    # if you want to use gravatar for the header image
-    gravatarEMail = ""
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
 
-    # set an path to the image file you want to use | overwrites gravatar
-    customImage = "/images/uploads/profile_picture.jpg"
+[[menu.main]]
+  name = "Coding"
+  url = "/coding"
+  weight = 100
 
-    # always display the top navigation (with pages and search) on non-mobile screens
-    permanentTopNav = false
+[[menu.main]]
+  name = "Life"
+  url = "/life"
+  weight = 99
 
-  # social media profile urls for the footer links
-  facebook   = ""
-  twitter    = "https://twitter.com/ChrisStayte"
-  googleplus = ""
-  pinterest  = ""
-  instagram  = ""
-  tumblr     = ""
-  youtube    = "https://youtube.com/ChrisStayte"
-  vimeo      = ""
-  github     = "https://github.com/ChrisStayte"
-
-# don't change anything here
-[taxonomies]
-  author   = "author"
-  tag      = "tags"
-  category = "categories"
-
-[outputs]
-  home = [ "HTML", "JSON" ]
-  page = [ "HTML" ]
+[[menu.main]]
+  name = "Youtube"
+  url = "https://www.youtube.com/chrisstayte"
+  weight = 95
