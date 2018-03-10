@@ -6,8 +6,10 @@ categories:
   - Code
 tags:
   - Hugo
-type: post
 image: uploads/websitefor12dollars.png
+comments: true
+share: true
+type: post
 ---
 In my series of building a site for 12$ we are going to talk about our website design and why you would choose a static site generator instead of something dynamic or just static.
 
