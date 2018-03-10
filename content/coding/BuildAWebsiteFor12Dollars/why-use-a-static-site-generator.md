@@ -2,8 +2,7 @@
 title: Why Use A Static Site Generator
 date: '2018-03-07'
 draft: false
-categories:
-  - Code
+categories: Code
 tags:
   - Hugo
 image: uploads/websitefor12dollars.png
