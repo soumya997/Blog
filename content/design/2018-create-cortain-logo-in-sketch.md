@@ -18,6 +18,8 @@ Today I am going to show you how to create my company's (Cortain) logo using ske
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E6LWyl8lx1Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<!--more-->
+
 Sketch  ▶ https://www.sketchapp.com/
 
 Gravit Designer  ▶ https://www.designer.io/
