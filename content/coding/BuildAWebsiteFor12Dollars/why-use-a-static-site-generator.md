@@ -5,7 +5,7 @@ draft: false
 categories: Code
 tags:
   - Hugo
-image: uploads/websitefor12dollars.png
+image: /uploads/002_whyuseastaticwebsitegenerator.png
 comments: true
 share: true
 type: post
