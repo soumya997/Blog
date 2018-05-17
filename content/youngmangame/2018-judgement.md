@@ -7,6 +7,7 @@ tags:
   - Young Man Game
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
+image: /uploads/youngmangame.png
 comments: true
 share: true
 type: post
