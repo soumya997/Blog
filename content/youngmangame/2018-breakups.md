@@ -1,6 +1,6 @@
 ---
 title: Breakups
-date: '2018-03-20'
+date: '2018-04-10'
 draft: false
 categories: Podcast
 tags:
@@ -12,8 +12,8 @@ comments: true
 share: true
 type: post
 ---
-This episode hits home with me. I remember my first breakup which was probably the one I dislike most. I was heartbroken for weeks it felt like and I had no more tears left but oh well. Let's talk about how to handle that kind of stuff. 
+This podcast can hit home to some people. Let's talk about some of my breakups and how I handled them. 
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416777847&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/427889061&amp;color=ff5500"></iframe>
