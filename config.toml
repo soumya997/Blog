@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title = "Chris Stayte Blog"
+  title = ""
   subtitle = ""
 
   cover       = "uploads/header.png"
