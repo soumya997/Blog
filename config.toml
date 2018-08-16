@@ -9,7 +9,7 @@ paginate        = 6
   title = "Chris Stayte Blog"
   subtitle = ""
 
-  cover       = "img/blog-cover.jpg"
+  cover       = "uploads/header.png"
   description = "Chris Stayte's Awesome Blog"
   metaDescription = ""
   googleAnalytics = "UA-75993010-2"
