@@ -19,6 +19,7 @@ paginate        = 6
   twitterName = "chrisstayte"
   fbName = "christstayte"
   githubName = "chrisstayte"
+  youtubeName = "chrisstayte"
 
   logo = ""
   orgName = "Chris Stayte"
@@ -50,9 +51,14 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
+  name = "Design"
+  url = "/design"
+  weight = 97
+
+[[menu.main]]
   name = "Life"
   url = "/life"
-  weight = 99
+  weight = 98
 
 [[menu.main]]
   name = "Youtube"
