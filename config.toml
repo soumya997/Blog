@@ -53,14 +53,9 @@ paginate        = 6
 [[menu.main]]
   name = "Design"
   url = "/design"
-  weight = 97
+  weight = 99
 
 [[menu.main]]
   name = "Life"
   url = "/life"
   weight = 98
-
-[[menu.main]]
-  name = "Youtube"
-  url = "https://www.youtube.com/chrisstayte"
-  weight = 95
