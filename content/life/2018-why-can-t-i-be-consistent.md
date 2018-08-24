@@ -28,7 +28,3 @@ Creating content, whether it be tutorials or stupid little videos will always be
 Let me know what you guys wanna see and I wanna help you learn it or master it. 
 
 \-- Peace Out
-
-
-
-https://content-na.drive.amazonaws.com/cdproxy/templink/Q1U09XjbnY7CrW5veOJBTBqAM8MZIM-82ZDe_p2K0CMeJxFPc?viewBox=724%2C407
