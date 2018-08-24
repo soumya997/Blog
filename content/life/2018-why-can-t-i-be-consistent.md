@@ -31,4 +31,4 @@ Let me know what you guys wanna see and I wanna help you learn it or master it.
 
 
 
-https://www.amazon.com/photos/share/T443LBhKe1MSjeW84X9kTFmG9kZYXr2r9Y5gOzVoRdq
+https://content-na.drive.amazonaws.com/cdproxy/templink/Q1U09XjbnY7CrW5veOJBTBqAM8MZIM-82ZDe_p2K0CMeJxFPc?viewBox=724%2C407
