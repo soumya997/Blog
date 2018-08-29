@@ -1,4 +1,4 @@
-BaseURL = "https://blog.chrisstayte.com"
+BaseURL = "https://blog.chrisstayte.com/"
 theme = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "blog-chrisstayte"
