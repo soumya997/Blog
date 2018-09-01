@@ -31,7 +31,8 @@ Now you can use the `hugo` command anywhere.
 
 Create a `package.json` file. Inside put
 
-``` json
+
+```javascript
 {
     "scripts": {
         "coder": "hugo server --bind='0.0.0.0' -p 3000 -b <URL HERE> --appendPort=false"
@@ -41,7 +42,7 @@ Create a `package.json` file. Inside put
 
 Mine Looks Like 
 
-``` json
+```javascript
 {
     "scripts": {
         "coder": "hugo server --bind='0.0.0.0' -p 3000 -b https://3000-dreamflammablegnu.cdr.co --appendPort=false"
