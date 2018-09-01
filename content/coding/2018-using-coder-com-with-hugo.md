@@ -17,12 +17,38 @@ I hate having to setup my development environment over and over again. Today I a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-uLJNGnh-5Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Install Hugo 
+## **Installing Hugo on Coder.com** 
 
-```
+```console
 go get -u github.com/gohugoio/hugo
 ```
 
 Go to `root/go/src/github.com/gohugoio/hugo` and run a `build` command. Once this is done copy the hugo binary to `/usr/local/bin`
 
-Now you can use the `hugo`command anywhere.
+Now you can use the `hugo` command anywhere.
+
+
+
+## Running Hugo Command
+
+
+
+Create a `package.json` file. Inside put
+
+``` json
+{
+    "scripts": {
+        "coder": "hugo server --bind='0.0.0.0' -p 3000 -b <URL HERE> --appendPort=false"
+    }
+}
+```
+
+Mine Looks Like 
+
+``` json
+{
+    "scripts": {
+        "coder": "hugo server --bind='0.0.0.0' -p 3000 -b https://3000-dreamflammablegnu.cdr.co --appendPort=false"
+    }
+}
+```
