@@ -19,6 +19,8 @@ I hate having to setup my development environment over and over again. Today I a
 
 ## **Installing Hugo on Coder.com**
 
+Run this command in the terminal
+
 ``` console
 go get -u github.com/gohugoio/hugo
 ```
