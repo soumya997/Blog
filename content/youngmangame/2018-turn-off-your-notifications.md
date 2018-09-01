@@ -1,7 +1,7 @@
 ---
 title: Turn Off Your Notifications
 date: '2018-08-26'
-draft: true
+draft: false
 categories: Podcast
 tags:
   - Phone
