@@ -19,7 +19,7 @@ I hate having to setup my development environment over and over again. Today I a
 
 ## **Installing Hugo on Coder.com**
 
-```console
+``` console
 go get -u github.com/gohugoio/hugo
 ```
 
@@ -31,7 +31,7 @@ Now you can use the `hugo` command anywhere.
 
 Create a `package.json` file. Inside put
 
-```json
+``` json
 {
     "scripts": {
         "coder": "hugo server --bind='0.0.0.0' -p 3000 -b <URL HERE> --appendPort=false"
@@ -41,7 +41,7 @@ Create a `package.json` file. Inside put
 
 Mine Looks Like 
 
-```json
+``` json
 {
     "scripts": {
         "coder": "hugo server --bind='0.0.0.0' -p 3000 -b https://3000-dreamflammablegnu.cdr.co --appendPort=false"
