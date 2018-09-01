@@ -1,6 +1,6 @@
 ---
 title: Turn Off Your Notifications
-date: '2018-09-01'
+date: '2018-08-26'
 draft: true
 categories: Podcast
 tags:
