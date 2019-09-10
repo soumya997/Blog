@@ -1,7 +1,7 @@
 ---
 title: Blow Your Mind
 date: '2018-05-14'
-draft: false
+draft: true
 categories: Podcast
 tags:
   - Young Man Game
