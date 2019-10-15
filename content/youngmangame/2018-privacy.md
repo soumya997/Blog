@@ -1,7 +1,7 @@
 ---
 title: Privacy
 date: '2018-04-23'
-draft: false
+draft: true
 categories: Podcast
 tags:
   - Young Man Game
