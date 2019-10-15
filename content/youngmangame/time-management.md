@@ -1,7 +1,7 @@
 ---
 title: New Year Resolutions
 date: 2018-01-13T20:34:07.000Z
-draft: false
+draft: true
 categories:
   - Podcast
 tags: [Young Man Game]
