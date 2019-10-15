@@ -1,7 +1,7 @@
 ---
 title: A Photo a Day
 date: '2018-05-17'
-draft: false
+draft: true
 categories: Goal
 tags:
   - Photography
