@@ -1,7 +1,7 @@
 ---
 title: Fixing Bad Communication
 date: 2017-12-19T19:56:28.000Z
-draft: false
+draft: true
 categories:
   - Podcast
 tags: [Young Man Game]
