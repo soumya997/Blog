@@ -1,7 +1,7 @@
 ---
 title: Your Self Image
 date: 2017-12-25T00:00:00.000Z
-draft: false
+draft: true
 categories:
   - Podcast
 tags: [Young Man Game]
