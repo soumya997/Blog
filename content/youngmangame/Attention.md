@@ -1,7 +1,7 @@
 ---
 title: Attention
 date: 2017-11-16T15:12:47.000Z
-draft: false
+draft: true
 categories:
   - Podcast
 tags: [Young Man Game]
