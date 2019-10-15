@@ -1,7 +1,7 @@
 ---
 title: Travel Through Communication
 date: 2017-12-02T15:12:47.000Z
-draft: false
+draft: true
 categories:
   - Podcast
 tags: [Young Man Game]
