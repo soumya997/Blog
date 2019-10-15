@@ -1,7 +1,7 @@
 ---
 title: Time Management
 date: 2018-01-28T00:00:00.000Z
-draft: false
+draft: true
 categories:
   - Podcast
 tags: [Young Man Game]
