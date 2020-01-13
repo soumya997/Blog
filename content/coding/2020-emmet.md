@@ -10,6 +10,7 @@ tags:
   - React
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
+image: uploads/emmet_031.png
 comments: true
 share: true
 type: post
