@@ -14,4 +14,4 @@ comments: true
 share: true
 type: post
 ---
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/v5fqSwnHZM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5fqSwnHZM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
